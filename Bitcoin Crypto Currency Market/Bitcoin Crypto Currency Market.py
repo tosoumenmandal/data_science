@@ -1,8 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-#%matplotlib inline
-%config InlineBackend.figure_format = 'svg' 
 plt.style.use('fivethirtyeight')
 
 # Reading in current data from coinmarketcap_06012018.csv
